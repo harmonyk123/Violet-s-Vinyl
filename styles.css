@@ -1,0 +1,61 @@
+*{
+    background-color: black;
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    
+} 
+
+
+
+.header >#title{
+    color:#ffffff;
+    font-size: 100px;
+    font-weight:bold;
+    background: url(./img/Records.jpg);
+    margin-top:50px;
+    margin-bottom: 50px;
+
+}
+
+header{
+    color:#ffffff;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h3,p{
+    color:#ffffff;  
+}
+
+.our_selection >header{
+    background-color: #ef8354;
+}
+
+.selling >header{
+    background-color: #0e7c7b;
+}
+
+.live_music_and_signing >header{
+    background-color: #9c538b;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+img{
+    width: 500px;
+}
+
+a:link {
+    color: #ef8354;
+}
+
+a:hover {
+    color: #9c528b;
+}
+
+footer{
+    text-align: center;
+}
